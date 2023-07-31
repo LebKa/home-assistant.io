@@ -29,7 +29,7 @@ The integration supports the [Water Control](#water-control) devices within Home
 
 Allow control of the valve state of [Gardena Bluetooth Water Control](https://www.gardena.com/int/products/watering/water-controls/water-control-bluetooth) units.
 
-The paring of the device may require a [Factory Reset](#factory-reset) before it allows a connection.
+The pairing of the device may require a [Factory Reset](#factory-reset) before it allows a connection.
 
 ### Limitations
 
